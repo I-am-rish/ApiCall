@@ -1,0 +1,12 @@
+.main{
+    background-color: rgb(233, 243, 243);
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.api-info{
+    padding: 20px;
+    background-color: rgb(151, 151, 155);
+}
